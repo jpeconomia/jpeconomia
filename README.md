@@ -2,6 +2,9 @@
 
 Sou economista com graduação e mestrado pela Universidade de Brasília. Tenho experiência com Python e R. 
 
+|Título|Descrição|Links|
+|Dashboard de Crédito|App com dados do crédito rural para projeto do SFB com a União Europeia|[App](https://app-credito-programas.onrender.com/)|
+
 
 
 <!--
