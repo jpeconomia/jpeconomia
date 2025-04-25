@@ -4,7 +4,7 @@ Sou economista com graduação e mestrado pela Universidade de Brasília. Tenho 
 
 |Título|Descrição|Links|
 |---|---|---|
-|Dashboard de Crédito|App com dados do crédito rural para projeto do SFB com a União Europeia|[App](https://app-credito-programas.onrender.com/)|
+|Dashboard de Crédito|App com dados do crédito rural para  projeto do Serviço Florestal Brasileiro com a União Europeia|[App](https://app-credito-programas.onrender.com/)|
 
 
 
