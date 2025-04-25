@@ -6,7 +6,7 @@ Sou economista com graduação e mestrado pela Universidade de Brasília. Tenho 
 
 |Título|Descrição|Links|
 |---|---|---|
-|Complexidade <br> Econômica| Regressão de dados em painel <br> em cima da renda per <br> capita dos estados brasileiros||
+|##### Complexidade <br> Econômica| Regressão de dados em painel <br> em cima da renda per <br> capita dos estados brasileiros||
 |Dashboards de Crédito|App com dados do crédito rural para <br> projeto do Serviço Florestal Brasileiro <br> com a União Europeia usando <br> dados do SICOR do Banco Central|[App 1](https://app-credito-programas.onrender.com/) <br> [Arquivos 1](https://github.com/jpeconomia/app-credito-programas) <br> [App 2](https://dash-credito-rural.onrender.com/) <br> [Arquivos 2](https://github.com/jpeconomia/Dados-de-Cr-dito-Rural)|
 
 
