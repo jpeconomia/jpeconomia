@@ -1,6 +1,8 @@
-## Olá, meu nome é João Pedro Heringer Machado 
+# Olá, meu nome é João Pedro Heringer Machado 
 
 Sou economista com graduação e mestrado pela Universidade de Brasília. Tenho experiência com Python e R. 
+
+## Projetos e Links
 
 |Título|Descrição|Links|
 |---|---|---|
