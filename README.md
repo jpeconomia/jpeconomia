@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, meu nome é João Pedro Heringer Machado 
+
+Sou economista com graduação e mestrado pela Universidade de Brasília. Tenho experiência com Python e R. 
+
+
 
 <!--
 **jpeconomia/jpeconomia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
