@@ -7,7 +7,9 @@ Sou economista com graduação e mestrado pela Universidade de Brasília. Tenho 
 |Título|Descrição|Links|
 |---|---|---|
 |**Complexidade <br> Econômica**| Regressão de dados em painel <br> em cima da renda per <br> capita dos estados brasileiros| [PDF](https://github.com/jpeconomia/exports-complexity/blob/main/Complexidade%20econ%C3%B4mica%20e%20renda%20per%20capita.pdf) <br> [Notebook](https://github.com/jpeconomia/exports-complexity/blob/main/Complexidade%20econ%C3%B4mica%20e%20renda%20per%20capita.ipynb)|
+|**Artigo Para <br> o PSL Quartely**|Visualização de dados e <br> cálculo de índice de <br> concentração econômica|[Artigo](https://rosa.uniroma1.it/rosa04/psl_quarterly_review/article/view/18916/17291) <br> [Arquivos](https://github.com/jpeconomia/artigo-PSL)|
 |**Dashboards de Crédito**|App com dados do crédito rural para <br> projeto do Serviço Florestal Brasileiro <br> com a União Europeia usando <br> dados do SICOR do Banco Central|[App 1](https://app-credito-programas.onrender.com/) <br> [Arquivos 1](https://github.com/jpeconomia/app-credito-programas) <br> [App 2](https://dash-credito-rural.onrender.com/) <br> [Arquivos 2](https://github.com/jpeconomia/Dados-de-Cr-dito-Rural)|
+
 
 
 
